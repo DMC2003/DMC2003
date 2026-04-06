@@ -2,7 +2,7 @@
 
 🎓 Data Science Undergraduate
 🤖 Exploring AI, LLMs & AI Planning
-🧠 Interested in building intelligent systems and creative AI applications
+🧠 Interested in building sustainable intelligent systems and creative AI applications
 
 ---
 
