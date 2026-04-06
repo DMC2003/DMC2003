@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm Working On
 
-* Researcging **AI Planning (PDDL)**
+* Researching **AI Planning (PDDL)**
 * Building **LLM-based applications**
 * Exploring **sustainable AI + data use cases**
 
