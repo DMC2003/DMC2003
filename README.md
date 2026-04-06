@@ -27,7 +27,7 @@
 
 ## 📌 Goals
 
-* Build impactful AI projects
+* Build impactful sustainable AI solutions
 * Break into AI / Data / Research internships
 * Combine **AI + creativity (storytelling, innovation)**
 
