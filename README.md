@@ -19,7 +19,9 @@
 * Python
 * SQL
 * Machine Learning
+* Tableau, Power BI
 * LLM Concepts
+* Linux
 * PDDL (AI Planning)
 * Basic R
 
